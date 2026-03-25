@@ -79,7 +79,7 @@ The application starts three socket servers on ports 5000, 5001, and 5002 to han
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
