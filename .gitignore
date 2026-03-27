@@ -1,10 +1,20 @@
-# Java build artifacts
-out/
-
-# IntelliJ IDEA files
+# IDE files
 .idea/
+.vscode/
 *.iml
 
-# OS-specific files
-Thumbs.db
+# Compiled files
+bin/
+out/
+target/
+*.class
+
+# Logs
+*.log
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Binaries
+*.jar

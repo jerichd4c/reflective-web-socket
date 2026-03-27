@@ -1,4 +1,4 @@
-package testclasses;
+package reflectivesocket.testclasses;
 
 public class Calculator { // test class no. 1
 

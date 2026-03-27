@@ -1,5 +1,5 @@
-package lib;
-import sockets.*;
+package reflectivesocket.lib;
+import reflectivesocket.sockets.*;
 
 public class ClientLibrary {
     private SocketClient client;

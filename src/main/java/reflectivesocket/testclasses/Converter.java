@@ -1,4 +1,4 @@
-package testclasses;
+package reflectivesocket.testclasses;
 
 public class Converter { // test class no. 3
     public double celsiusToFahrenheit(double celsius) { // class no. 3 method no. 1

@@ -1,9 +1,9 @@
-package menu;
+package reflectivesocket.menu;
 
 // auxiliary class to test the methods in main BusinessApp so it can be less cluttered
 
 import java.util.Scanner;
-import lib.ClientLibrary; // library for the client
+import reflectivesocket.lib.ClientLibrary; // library for the client
 
 public class MenuSystem {
     private ClientLibrary lib;

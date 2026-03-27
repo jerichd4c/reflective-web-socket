@@ -1,4 +1,4 @@
-package testclasses;
+package reflectivesocket.testclasses;
 
 public class TextModifier { // test class No. 2
     public String invertText(String text) {return new StringBuilder(text).reverse().toString();} // class no. 2 method no. 1

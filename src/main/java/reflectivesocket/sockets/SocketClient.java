@@ -1,4 +1,4 @@
-package sockets;
+package reflectivesocket.sockets;
 
 import java.io.*;
 import java.net.*;

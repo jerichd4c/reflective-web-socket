@@ -1,10 +1,10 @@
-package src;
+package reflectivesocket;
 
 import java.io.*;
 import java.util.*;
-import menu.MenuSystem; //socket server and client
-import sockets.*; // test classes and methods
-import testclasses.*; // menu system for testing
+import reflectivesocket.menu.MenuSystem; //socket server and client
+import reflectivesocket.sockets.*; // test classes and methods
+import reflectivesocket.testclasses.*; // menu system for testing
 
 public class BusinessApp {
     public static void main(String[] args) throws IOException {
