@@ -1,7 +1,3 @@
-<a id="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center">Reflective Socket Project</h3>
 
